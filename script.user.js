@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         GotaRevamp - onyx - private
-// @version      Beta
 // @description  A whole new client for Gota.io - This is private and still in beta.
+// @version      Beta
 // @author       onyx
 // @match        *://gota.io/web*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gota.io
-// @supportURL   https://github.com/dev-onyx/GotaRevamp
-// @updateURL    https://github.com/dev-onyx/GotaRevamp/script.user.js
-// @downloadURL  https://github.com/dev-onyx/GotaRevamp/script.user.js
 // @homepageURL  https://github.com/dev-onyx/GotaRevamp
+// @updateURL    https://github.com/dev-onyx/GotaRevamp/raw/main/script.user.js
+// @downloadURL  https://github.com/dev-onyx/GotaRevamp/raw/main/script.user.js
+// @supportURL   https://github.com/dev-onyx/GotaRevamp/issues
 // @compatible   chrome
 // @license      MIT
 // @copyright    2024, onyx
